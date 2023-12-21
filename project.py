@@ -25,7 +25,6 @@ score = high_score = 0
 stop = 0
 money = 0
 timeleft = 5*60*10
-x_change, y_change = 0, block_size
 x_pos, y_pos = 5*block_size, 4*block_size
 source_list = []
 level = [2,4,5] 
